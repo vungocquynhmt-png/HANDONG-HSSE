@@ -1,0 +1,6 @@
+{
+  "name": "Handong HSE Monthly Dashboard",
+  "description": "Monthly Health, Safety & Environment Dashboard Reporting System for Handong Engineering & Construction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
